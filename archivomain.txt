@@ -1,3 +1,7 @@
 Este es el archivo main del  proyecto.
 Creado por Carlos
 Modificado por dev1
+Este es el archivo main del proyecto modificado desde dev2.
+Creado por Carlos
+
+Soy el desarrollador 2 :)
