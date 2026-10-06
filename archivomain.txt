@@ -1,2 +1,4 @@
-Este es el archivo main del  proyecto.
+Este es el archivo main del proyecto modificado desde dev2.
 Creado por Carlos
+
+Soy el desarrollador 2 :)
